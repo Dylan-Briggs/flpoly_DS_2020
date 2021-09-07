@@ -4,20 +4,18 @@
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to data science
 
-- Course 2
+- Pre-Calculus2
 
-- Course 3
-
-- Course 4
-
+- Intro to python/cloud infraustructure
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Games
 
-- Thing 2
+- Building things
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Discovering new things
+
